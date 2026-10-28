@@ -1,0 +1,4591 @@
+{
+ "generated_at": "2026-10-28 12:47:20",
+ "window_days": 30,
+ "days_covered": 30,
+ "date_from": "2026-09-29",
+ "date_to": "2026-10-28",
+ "gpus": {
+  "RTX 3090": {
+   "series": [
+    {
+     "d": "2026-09-29",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.09,
+     "n": 6
+    },
+    {
+     "d": "2026-09-30",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.19,
+     "n": 7
+    },
+    {
+     "d": "2026-10-01",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.19,
+     "n": 7
+    },
+    {
+     "d": "2026-10-02",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.19,
+     "n": 7
+    },
+    {
+     "d": "2026-10-03",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.19,
+     "n": 7
+    },
+    {
+     "d": "2026-10-04",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.19,
+     "n": 7
+    },
+    {
+     "d": "2026-10-05",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.19,
+     "n": 7
+    },
+    {
+     "d": "2026-10-06",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.19,
+     "n": 7
+    },
+    {
+     "d": "2026-10-07",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.19,
+     "n": 7
+    },
+    {
+     "d": "2026-10-08",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.19,
+     "n": 7
+    },
+    {
+     "d": "2026-10-09",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.42,
+     "n": 6
+    },
+    {
+     "d": "2026-10-10",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.22,
+     "n": 9
+    },
+    {
+     "d": "2026-10-11",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.22,
+     "n": 9
+    },
+    {
+     "d": "2026-10-12",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.22,
+     "n": 9
+    },
+    {
+     "d": "2026-10-13",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-14",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-15",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-16",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-17",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-18",
+     "p": 0.72,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-19",
+     "p": 0.8,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-20",
+     "p": 0.76,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-21",
+     "p": 0.76,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-22",
+     "p": 0.8,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-23",
+     "p": 0.8,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-24",
+     "p": 0.8,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.36,
+     "n": 8
+    },
+    {
+     "d": "2026-10-25",
+     "p": 0.8,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-26",
+     "p": 0.8,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.44,
+     "n": 7
+    },
+    {
+     "d": "2026-10-27",
+     "p": 0.8,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    },
+    {
+     "d": "2026-10-28",
+     "p": 0.8,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 1.31,
+     "n": 8
+    }
+   ],
+   "days": 30,
+   "min30": {
+    "p": 0.72,
+    "d": "2026-09-29",
+    "plat": "chenjian"
+   },
+   "max30": {
+    "p": 0.8,
+    "d": "2026-10-19",
+    "plat": "chenjian"
+   },
+   "avg30": 0.74,
+   "current": {
+    "p": 0.8,
+    "plat": "chenjian",
+    "d": "2026-10-28"
+   },
+   "change_pct": 11.1,
+   "vs_min_pct": 11.1,
+   "volatility_pct": 4.8,
+   "med_now": 1.31,
+   "med_avg": 1.31,
+   "gap_to_median_pct": 38.9,
+   "sellers_today": 8
+  },
+  "RTX 4090": {
+   "series": [
+    {
+     "d": "2026-09-29",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.99,
+     "n": 8
+    },
+    {
+     "d": "2026-09-30",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.95,
+     "n": 7
+    },
+    {
+     "d": "2026-10-01",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.92,
+     "n": 7
+    },
+    {
+     "d": "2026-10-02",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.92,
+     "n": 7
+    },
+    {
+     "d": "2026-10-03",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.92,
+     "n": 7
+    },
+    {
+     "d": "2026-10-04",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.0,
+     "n": 7
+    },
+    {
+     "d": "2026-10-05",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.96,
+     "n": 8
+    },
+    {
+     "d": "2026-10-06",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.99,
+     "n": 8
+    },
+    {
+     "d": "2026-10-07",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.95,
+     "n": 8
+    },
+    {
+     "d": "2026-10-08",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.96,
+     "n": 6
+    },
+    {
+     "d": "2026-10-09",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.99,
+     "n": 8
+    },
+    {
+     "d": "2026-10-10",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.0,
+     "n": 9
+    },
+    {
+     "d": "2026-10-11",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.0,
+     "n": 9
+    },
+    {
+     "d": "2026-10-12",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.0,
+     "n": 9
+    },
+    {
+     "d": "2026-10-13",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.96,
+     "n": 8
+    },
+    {
+     "d": "2026-10-14",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.96,
+     "n": 8
+    },
+    {
+     "d": "2026-10-15",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.96,
+     "n": 8
+    },
+    {
+     "d": "2026-10-16",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.98,
+     "n": 9
+    },
+    {
+     "d": "2026-10-17",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.96,
+     "n": 8
+    },
+    {
+     "d": "2026-10-18",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.96,
+     "n": 8
+    },
+    {
+     "d": "2026-10-19",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.98,
+     "n": 9
+    },
+    {
+     "d": "2026-10-20",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.98,
+     "n": 9
+    },
+    {
+     "d": "2026-10-21",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.0,
+     "n": 9
+    },
+    {
+     "d": "2026-10-22",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.0,
+     "n": 8
+    },
+    {
+     "d": "2026-10-23",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.99,
+     "n": 8
+    },
+    {
+     "d": "2026-10-24",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.98,
+     "n": 9
+    },
+    {
+     "d": "2026-10-25",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.99,
+     "n": 8
+    },
+    {
+     "d": "2026-10-26",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.0,
+     "n": 9
+    },
+    {
+     "d": "2026-10-27",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.98,
+     "n": 9
+    },
+    {
+     "d": "2026-10-28",
+     "p": 1.24,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.95,
+     "n": 8
+    }
+   ],
+   "days": 30,
+   "min30": {
+    "p": 1.24,
+    "d": "2026-09-29",
+    "plat": "suanjiayun"
+   },
+   "max30": {
+    "p": 1.24,
+    "d": "2026-09-29",
+    "plat": "suanjiayun"
+   },
+   "avg30": 1.24,
+   "current": {
+    "p": 1.24,
+    "plat": "suanjiayun",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 1.95,
+   "med_avg": 1.98,
+   "gap_to_median_pct": 36.4,
+   "sellers_today": 8
+  },
+  "A800 80GB": {
+   "series": [
+    {
+     "d": "2026-09-29",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-09-30",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-10-01",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-02",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-10-03",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-04",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-10-05",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-10-06",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-10-07",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-10-08",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-10-09",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-10-10",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-11",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-12",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-13",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-14",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-15",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-16",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-17",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-18",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-19",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-10-20",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    },
+    {
+     "d": "2026-10-21",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.26,
+     "n": 2
+    },
+    {
+     "d": "2026-10-22",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.26,
+     "n": 2
+    },
+    {
+     "d": "2026-10-23",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-24",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-25",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-26",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.26,
+     "n": 2
+    },
+    {
+     "d": "2026-10-27",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.26,
+     "n": 2
+    },
+    {
+     "d": "2026-10-28",
+     "p": 5.15,
+     "plat": "chenjian",
+     "stock": "available",
+     "med": 6.4,
+     "n": 3
+    }
+   ],
+   "days": 30,
+   "min30": {
+    "p": 5.15,
+    "d": "2026-09-29",
+    "plat": "chenjian"
+   },
+   "max30": {
+    "p": 5.15,
+    "d": "2026-09-29",
+    "plat": "chenjian"
+   },
+   "avg30": 5.15,
+   "current": {
+    "p": 5.15,
+    "plat": "chenjian",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 6.4,
+   "med_avg": 6.4,
+   "gap_to_median_pct": 19.5,
+   "sellers_today": 3
+  },
+  "A6000 48GB": {
+   "series": [
+    {
+     "d": "2026-09-29",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.53,
+     "n": 2
+    },
+    {
+     "d": "2026-09-30",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.53,
+     "n": 2
+    },
+    {
+     "d": "2026-10-01",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.53,
+     "n": 2
+    },
+    {
+     "d": "2026-10-02",
+     "p": 2.85,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 2.96,
+     "n": 2
+    },
+    {
+     "d": "2026-10-03",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.53,
+     "n": 2
+    },
+    {
+     "d": "2026-10-04",
+     "p": 2.85,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 2.96,
+     "n": 2
+    },
+    {
+     "d": "2026-10-05",
+     "p": 2.85,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 2.85,
+     "n": 1
+    },
+    {
+     "d": "2026-10-06",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.53,
+     "n": 2
+    },
+    {
+     "d": "2026-10-07",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.53,
+     "n": 2
+    },
+    {
+     "d": "2026-10-08",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.53,
+     "n": 2
+    },
+    {
+     "d": "2026-10-09",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.53,
+     "n": 2
+    },
+    {
+     "d": "2026-10-10",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.85,
+     "n": 3
+    },
+    {
+     "d": "2026-10-11",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.85,
+     "n": 3
+    },
+    {
+     "d": "2026-10-12",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.85,
+     "n": 3
+    },
+    {
+     "d": "2026-10-13",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-14",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-15",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-16",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-17",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-18",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-19",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-20",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 3.04,
+     "n": 6
+    },
+    {
+     "d": "2026-10-21",
+     "p": 2.52,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 3.24,
+     "n": 5
+    },
+    {
+     "d": "2026-10-22",
+     "p": 2.52,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 3.24,
+     "n": 5
+    },
+    {
+     "d": "2026-10-23",
+     "p": 2.52,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 3.24,
+     "n": 5
+    },
+    {
+     "d": "2026-10-24",
+     "p": 2.52,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 3.24,
+     "n": 5
+    },
+    {
+     "d": "2026-10-25",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 3.04,
+     "n": 6
+    },
+    {
+     "d": "2026-10-26",
+     "p": 2.52,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 3.24,
+     "n": 5
+    },
+    {
+     "d": "2026-10-27",
+     "p": 2.2,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 3.04,
+     "n": 6
+    },
+    {
+     "d": "2026-10-28",
+     "p": 2.52,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 3.24,
+     "n": 5
+    }
+   ],
+   "days": 30,
+   "min30": {
+    "p": 2.2,
+    "d": "2026-09-29",
+    "plat": "gpushare"
+   },
+   "max30": {
+    "p": 2.85,
+    "d": "2026-10-02",
+    "plat": "matpool"
+   },
+   "avg30": 2.33,
+   "current": {
+    "p": 2.52,
+    "plat": "thunder",
+    "d": "2026-10-28"
+   },
+   "change_pct": 14.5,
+   "vs_min_pct": 14.5,
+   "volatility_pct": 9.2,
+   "med_now": 3.24,
+   "med_avg": 2.77,
+   "gap_to_median_pct": 22.2,
+   "sellers_today": 5
+  },
+  "RTX 5090": {
+   "series": [
+    {
+     "d": "2026-09-29",
+     "p": 2.09,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-09-30",
+     "p": 2.6,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-01",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 5
+    },
+    {
+     "d": "2026-10-02",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.84,
+     "n": 4
+    },
+    {
+     "d": "2026-10-03",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 5
+    },
+    {
+     "d": "2026-10-04",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.9,
+     "n": 5
+    },
+    {
+     "d": "2026-10-05",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.9,
+     "n": 5
+    },
+    {
+     "d": "2026-10-06",
+     "p": 2.09,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-07",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-08",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 5
+    },
+    {
+     "d": "2026-10-09",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-10",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.93,
+     "n": 7
+    },
+    {
+     "d": "2026-10-11",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.84,
+     "n": 6
+    },
+    {
+     "d": "2026-10-12",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 3.17,
+     "n": 6
+    },
+    {
+     "d": "2026-10-13",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.99,
+     "n": 5
+    },
+    {
+     "d": "2026-10-14",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.99,
+     "n": 5
+    },
+    {
+     "d": "2026-10-15",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.96,
+     "n": 6
+    },
+    {
+     "d": "2026-10-16",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.99,
+     "n": 5
+    },
+    {
+     "d": "2026-10-17",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.99,
+     "n": 5
+    },
+    {
+     "d": "2026-10-18",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.96,
+     "n": 6
+    },
+    {
+     "d": "2026-10-19",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 3.17,
+     "n": 6
+    },
+    {
+     "d": "2026-10-20",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 3.17,
+     "n": 6
+    },
+    {
+     "d": "2026-10-21",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 3.17,
+     "n": 6
+    },
+    {
+     "d": "2026-10-22",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.99,
+     "n": 5
+    },
+    {
+     "d": "2026-10-23",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.99,
+     "n": 5
+    },
+    {
+     "d": "2026-10-24",
+     "p": 2.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 2.96,
+     "n": 6
+    },
+    {
+     "d": "2026-10-25",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 2.99,
+     "n": 5
+    },
+    {
+     "d": "2026-10-26",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 3.17,
+     "n": 6
+    },
+    {
+     "d": "2026-10-27",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 3.16,
+     "n": 7
+    },
+    {
+     "d": "2026-10-28",
+     "p": 2.68,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 3.08,
+     "n": 6
+    }
+   ],
+   "days": 30,
+   "min30": {
+    "p": 2.09,
+    "d": "2026-09-29",
+    "plat": "gpushare"
+   },
+   "max30": {
+    "p": 2.68,
+    "d": "2026-10-02",
+    "plat": "suanjiayun"
+   },
+   "avg30": 2.59,
+   "current": {
+    "p": 2.68,
+    "plat": "suanjiayun",
+    "d": "2026-10-28"
+   },
+   "change_pct": 28.2,
+   "vs_min_pct": 28.2,
+   "volatility_pct": 5.4,
+   "med_now": 3.08,
+   "med_avg": 2.96,
+   "gap_to_median_pct": 13.0,
+   "sellers_today": 6
+  },
+  "H100 80GB": {
+   "series": [
+    {
+     "d": "2026-09-29",
+     "p": 16.34,
+     "plat": "vast",
+     "stock": "available",
+     "med": 16.34,
+     "n": 1
+    },
+    {
+     "d": "2026-09-30",
+     "p": 14.23,
+     "plat": "vast",
+     "stock": "available",
+     "med": 14.23,
+     "n": 1
+    },
+    {
+     "d": "2026-10-01",
+     "p": 14.23,
+     "plat": "vast",
+     "stock": "available",
+     "med": 14.23,
+     "n": 1
+    },
+    {
+     "d": "2026-10-02",
+     "p": 14.23,
+     "plat": "vast",
+     "stock": "available",
+     "med": 14.23,
+     "n": 1
+    },
+    {
+     "d": "2026-10-03",
+     "p": 15.38,
+     "plat": "vast",
+     "stock": "available",
+     "med": 15.38,
+     "n": 1
+    },
+    {
+     "d": "2026-10-04",
+     "p": 16.34,
+     "plat": "vast",
+     "stock": "available",
+     "med": 16.34,
+     "n": 1
+    },
+    {
+     "d": "2026-10-05",
+     "p": 14.23,
+     "plat": "vast",
+     "stock": "available",
+     "med": 14.23,
+     "n": 1
+    },
+    {
+     "d": "2026-10-06",
+     "p": 14.23,
+     "plat": "vast",
+     "stock": "available",
+     "med": 14.23,
+     "n": 1
+    },
+    {
+     "d": "2026-10-07",
+     "p": 14.23,
+     "plat": "vast",
+     "stock": "available",
+     "med": 14.23,
+     "n": 1
+    },
+    {
+     "d": "2026-10-08",
+     "p": 14.23,
+     "plat": "vast",
+     "stock": "available",
+     "med": 14.23,
+     "n": 1
+    },
+    {
+     "d": "2026-10-09",
+     "p": 14.23,
+     "plat": "vast",
+     "stock": "available",
+     "med": 14.23,
+     "n": 1
+    },
+    {
+     "d": "2026-10-10",
+     "p": 16.2,
+     "plat": "tensordock",
+     "stock": "available",
+     "med": 25.13,
+     "n": 3
+    },
+    {
+     "d": "2026-10-11",
+     "p": 16.2,
+     "plat": "tensordock",
+     "stock": "available",
+     "med": 25.13,
+     "n": 3
+    },
+    {
+     "d": "2026-10-12",
+     "p": 16.2,
+     "plat": "tensordock",
+     "stock": "available",
+     "med": 25.13,
+     "n": 3
+    },
+    {
+     "d": "2026-10-13",
+     "p": 16.2,
+     "plat": "tensordock",
+     "stock": "available",
+     "med": 24.09,
+     "n": 8
+    },
+    {
+     "d": "2026-10-14",
+     "p": 16.2,
+     "plat": "tensordock",
+     "stock": "available",
+     "med": 24.09,
+     "n": 8
+    },
+    {
+     "d": "2026-10-15",
+     "p": 16.2,
+     "plat": "tensordock",
+     "stock": "available",
+     "med": 24.09,
+     "n": 8
+    },
+    {
+     "d": "2026-10-16",
+     "p": 16.2,
+     "plat": "tensordock",
+     "stock": "available",
+     "med": 24.09,
+     "n": 8
+    },
+    {
+     "d": "2026-10-17",
+     "p": 16.2,
+     "plat": "tensordock",
+     "stock": "available",
+     "med": 24.09,
+     "n": 8
+    },
+    {
+     "d": "2026-10-18",
+     "p": 16.2,
+     "plat": "tensordock",
+     "stock": "available",
+     "med": 24.09,
+     "n": 8
+    },
+    {
+     "d": "2026-10-19",
+     "p": 16.2,
+     "plat": "tensordock",
+     "stock": "available",
+     "med": 24.09,
+     "n": 8
+    },
+    {
+     "d": "2026-10-20",
+     "p": 8.28,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 23.04,
+     "n": 9
+    },
+    {
+     "d": "2026-10-21",
+     "p": 8.28,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 23.04,
+     "n": 9
+    },
+    {
+     "d": "2026-10-22",
+     "p": 8.28,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 23.04,
+     "n": 9
+    },
+    {
+     "d": "2026-10-23",
+     "p": 8.28,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 23.04,
+     "n": 9
+    },
+    {
+     "d": "2026-10-24",
+     "p": 8.28,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 23.04,
+     "n": 9
+    },
+    {
+     "d": "2026-10-25",
+     "p": 8.28,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 23.04,
+     "n": 9
+    },
+    {
+     "d": "2026-10-26",
+     "p": 8.28,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 23.04,
+     "n": 9
+    },
+    {
+     "d": "2026-10-27",
+     "p": 8.28,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 23.04,
+     "n": 9
+    },
+    {
+     "d": "2026-10-28",
+     "p": 8.28,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 23.04,
+     "n": 9
+    }
+   ],
+   "days": 30,
+   "min30": {
+    "p": 8.28,
+    "d": "2026-10-20",
+    "plat": "paperspace"
+   },
+   "max30": {
+    "p": 16.34,
+    "d": "2026-09-29",
+    "plat": "vast"
+   },
+   "avg30": 13.28,
+   "current": {
+    "p": 8.28,
+    "plat": "paperspace",
+    "d": "2026-10-28"
+   },
+   "change_pct": -49.3,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 25.4,
+   "med_now": 23.04,
+   "med_avg": 23.04,
+   "gap_to_median_pct": 64.1,
+   "sellers_today": 9
+  },
+  "A100 80GB": {
+   "series": [
+    {
+     "d": "2026-09-29",
+     "p": 9.8,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 10.28,
+     "n": 2
+    },
+    {
+     "d": "2026-09-30",
+     "p": 6.66,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 6.98,
+     "n": 3
+    },
+    {
+     "d": "2026-10-01",
+     "p": 6.66,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 6.98,
+     "n": 3
+    },
+    {
+     "d": "2026-10-02",
+     "p": 6.98,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 8.87,
+     "n": 2
+    },
+    {
+     "d": "2026-10-03",
+     "p": 6.66,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 6.98,
+     "n": 3
+    },
+    {
+     "d": "2026-10-04",
+     "p": 6.66,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 6.98,
+     "n": 3
+    },
+    {
+     "d": "2026-10-05",
+     "p": 6.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 6.98,
+     "n": 3
+    },
+    {
+     "d": "2026-10-06",
+     "p": 6.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 6.98,
+     "n": 3
+    },
+    {
+     "d": "2026-10-07",
+     "p": 6.59,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 6.98,
+     "n": 3
+    },
+    {
+     "d": "2026-10-08",
+     "p": 6.98,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 8.87,
+     "n": 2
+    },
+    {
+     "d": "2026-10-09",
+     "p": 6.98,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 8.87,
+     "n": 2
+    },
+    {
+     "d": "2026-10-10",
+     "p": 9.8,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 10.75,
+     "n": 5
+    },
+    {
+     "d": "2026-10-11",
+     "p": 9.8,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 10.75,
+     "n": 5
+    },
+    {
+     "d": "2026-10-12",
+     "p": 9.8,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 10.75,
+     "n": 5
+    },
+    {
+     "d": "2026-10-13",
+     "p": 7.85,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 10.75,
+     "n": 9
+    },
+    {
+     "d": "2026-10-14",
+     "p": 7.85,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 10.75,
+     "n": 9
+    },
+    {
+     "d": "2026-10-15",
+     "p": 7.85,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 10.75,
+     "n": 9
+    },
+    {
+     "d": "2026-10-16",
+     "p": 7.85,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 10.75,
+     "n": 9
+    },
+    {
+     "d": "2026-10-17",
+     "p": 7.85,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 10.75,
+     "n": 9
+    },
+    {
+     "d": "2026-10-18",
+     "p": 7.85,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 10.75,
+     "n": 9
+    },
+    {
+     "d": "2026-10-19",
+     "p": 6.66,
+     "plat": "gpushare",
+     "stock": "available",
+     "med": 10.74,
+     "n": 10
+    },
+    {
+     "d": "2026-10-20",
+     "p": 5.47,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 10.73,
+     "n": 11
+    },
+    {
+     "d": "2026-10-21",
+     "p": 5.47,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 10.74,
+     "n": 10
+    },
+    {
+     "d": "2026-10-22",
+     "p": 5.47,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 10.73,
+     "n": 11
+    },
+    {
+     "d": "2026-10-23",
+     "p": 5.47,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 10.74,
+     "n": 10
+    },
+    {
+     "d": "2026-10-24",
+     "p": 5.47,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 10.74,
+     "n": 10
+    },
+    {
+     "d": "2026-10-25",
+     "p": 5.47,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 10.74,
+     "n": 10
+    },
+    {
+     "d": "2026-10-26",
+     "p": 5.47,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 10.74,
+     "n": 10
+    },
+    {
+     "d": "2026-10-27",
+     "p": 5.47,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 10.74,
+     "n": 10
+    },
+    {
+     "d": "2026-10-28",
+     "p": 5.47,
+     "plat": "paperspace",
+     "stock": "available",
+     "med": 10.74,
+     "n": 10
+    }
+   ],
+   "days": 30,
+   "min30": {
+    "p": 5.47,
+    "d": "2026-10-20",
+    "plat": "paperspace"
+   },
+   "max30": {
+    "p": 9.8,
+    "d": "2026-09-29",
+    "plat": "suanjiayun"
+   },
+   "avg30": 6.98,
+   "current": {
+    "p": 5.47,
+    "plat": "paperspace",
+    "d": "2026-10-28"
+   },
+   "change_pct": -44.2,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 19.9,
+   "med_now": 10.74,
+   "med_avg": 10.74,
+   "gap_to_median_pct": 49.1,
+   "sellers_today": 10
+  },
+  "T4 16GB": {
+   "series": [
+    {
+     "d": "2026-09-29",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-09-30",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-01",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-02",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-03",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-04",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-05",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-06",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-07",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-08",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-09",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-10",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-11",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-12",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-13",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-14",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-15",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-16",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-17",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-18",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-19",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-20",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-21",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-22",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-23",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-24",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-25",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-26",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-27",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    },
+    {
+     "d": "2026-10-28",
+     "p": 1.35,
+     "plat": "matpool",
+     "stock": "available",
+     "med": 1.35,
+     "n": 1
+    }
+   ],
+   "days": 30,
+   "min30": {
+    "p": 1.35,
+    "d": "2026-09-29",
+    "plat": "matpool"
+   },
+   "max30": {
+    "p": 1.35,
+    "d": "2026-09-29",
+    "plat": "matpool"
+   },
+   "avg30": 1.35,
+   "current": {
+    "p": 1.35,
+    "plat": "matpool",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 1.35,
+   "med_avg": 1.35,
+   "gap_to_median_pct": 0.0,
+   "sellers_today": 1
+  },
+  "RTX 4090D 24GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-14",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-15",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-16",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-17",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-18",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-19",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-20",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-21",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-22",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-23",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-24",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-25",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-26",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-27",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    },
+    {
+     "d": "2026-10-28",
+     "p": 1.14,
+     "plat": "suanjiayun",
+     "stock": "available",
+     "med": 1.14,
+     "n": 1
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 1.14,
+    "d": "2026-10-13",
+    "plat": "suanjiayun"
+   },
+   "max30": {
+    "p": 1.14,
+    "d": "2026-10-13",
+    "plat": "suanjiayun"
+   },
+   "avg30": 1.14,
+   "current": {
+    "p": 1.14,
+    "plat": "suanjiayun",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 1.14,
+   "med_avg": 1.14,
+   "gap_to_median_pct": 0.0,
+   "sellers_today": 1
+  },
+  "H20 96GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-14",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-15",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-16",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-17",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-18",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-19",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-20",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-21",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-22",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-23",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-24",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-25",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-26",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-27",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    },
+    {
+     "d": "2026-10-28",
+     "p": 7.5,
+     "plat": "compshare",
+     "stock": "available",
+     "med": 7.5,
+     "n": 1
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 7.5,
+    "d": "2026-10-13",
+    "plat": "compshare"
+   },
+   "max30": {
+    "p": 7.5,
+    "d": "2026-10-13",
+    "plat": "compshare"
+   },
+   "avg30": 7.5,
+   "current": {
+    "p": 7.5,
+    "plat": "compshare",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 7.5,
+   "med_avg": 7.5,
+   "gap_to_median_pct": 0.0,
+   "sellers_today": 1
+  },
+  "MI300X 192GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-14",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-15",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-16",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-17",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-18",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-19",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-20",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-21",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-22",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-23",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-24",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-25",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-26",
+     "p": 3.6,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.6,
+     "n": 1
+    },
+    {
+     "d": "2026-10-27",
+     "p": 24.84,
+     "plat": "crusoe",
+     "stock": "available",
+     "med": 24.84,
+     "n": 1
+    },
+    {
+     "d": "2026-10-28",
+     "p": 24.84,
+     "plat": "crusoe",
+     "stock": "available",
+     "med": 24.84,
+     "n": 1
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 3.6,
+    "d": "2026-10-13",
+    "plat": "runpod"
+   },
+   "max30": {
+    "p": 24.84,
+    "d": "2026-10-27",
+    "plat": "crusoe"
+   },
+   "avg30": 6.25,
+   "current": {
+    "p": 24.84,
+    "plat": "crusoe",
+    "d": "2026-10-28"
+   },
+   "change_pct": 590.0,
+   "vs_min_pct": 590.0,
+   "volatility_pct": 112.4,
+   "med_now": 24.84,
+   "med_avg": 3.6,
+   "gap_to_median_pct": 0.0,
+   "sellers_today": 1
+  },
+  "A40 48GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-14",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-15",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-16",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-17",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-18",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-19",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-20",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-21",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-22",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-23",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-24",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-25",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-26",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-27",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    },
+    {
+     "d": "2026-10-28",
+     "p": 2.52,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 2.52,
+     "n": 1
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 2.52,
+    "d": "2026-10-13",
+    "plat": "runpod"
+   },
+   "max30": {
+    "p": 2.52,
+    "d": "2026-10-13",
+    "plat": "runpod"
+   },
+   "avg30": 2.52,
+   "current": {
+    "p": 2.52,
+    "plat": "runpod",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 2.52,
+   "med_avg": 2.52,
+   "gap_to_median_pct": 0.0,
+   "sellers_today": 1
+  },
+  "B200 180GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 52.2,
+     "n": 2
+    },
+    {
+     "d": "2026-10-14",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 52.2,
+     "n": 2
+    },
+    {
+     "d": "2026-10-15",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 52.2,
+     "n": 2
+    },
+    {
+     "d": "2026-10-16",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 61.2,
+     "n": 3
+    },
+    {
+     "d": "2026-10-17",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 61.2,
+     "n": 3
+    },
+    {
+     "d": "2026-10-18",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 61.2,
+     "n": 3
+    },
+    {
+     "d": "2026-10-19",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 61.2,
+     "n": 3
+    },
+    {
+     "d": "2026-10-20",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 54.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-21",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 54.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-22",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 54.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-23",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 54.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-24",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 54.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-25",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 54.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-26",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 54.69,
+     "n": 4
+    },
+    {
+     "d": "2026-10-27",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 48.17,
+     "n": 3
+    },
+    {
+     "d": "2026-10-28",
+     "p": 43.2,
+     "plat": "hyperstack",
+     "stock": "available",
+     "med": 48.17,
+     "n": 3
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 43.2,
+    "d": "2026-10-13",
+    "plat": "hyperstack"
+   },
+   "max30": {
+    "p": 43.2,
+    "d": "2026-10-13",
+    "plat": "hyperstack"
+   },
+   "avg30": 43.2,
+   "current": {
+    "p": 43.2,
+    "plat": "hyperstack",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 48.17,
+   "med_avg": 54.69,
+   "gap_to_median_pct": 10.3,
+   "sellers_today": 3
+  },
+  "H200 141GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 28.73,
+     "n": 3
+    },
+    {
+     "d": "2026-10-14",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 28.73,
+     "n": 3
+    },
+    {
+     "d": "2026-10-15",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 28.73,
+     "n": 3
+    },
+    {
+     "d": "2026-10-16",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-17",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-18",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-19",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-20",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-21",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-22",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-23",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-24",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-25",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-26",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 33.8,
+     "n": 4
+    },
+    {
+     "d": "2026-10-27",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 30.89,
+     "n": 5
+    },
+    {
+     "d": "2026-10-28",
+     "p": 24.8,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 30.89,
+     "n": 5
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 24.8,
+    "d": "2026-10-13",
+    "plat": "gcore"
+   },
+   "max30": {
+    "p": 24.8,
+    "d": "2026-10-13",
+    "plat": "gcore"
+   },
+   "avg30": 24.8,
+   "current": {
+    "p": 24.8,
+    "plat": "gcore",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 30.89,
+   "med_avg": 33.8,
+   "gap_to_median_pct": 19.7,
+   "sellers_today": 5
+  },
+  "L4 24GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-14",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-15",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-16",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-17",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-18",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-19",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-20",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-21",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-22",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-23",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-24",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-25",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-26",
+     "p": 3.17,
+     "plat": "runpod",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-27",
+     "p": 3.17,
+     "plat": "jarvislabs",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    },
+    {
+     "d": "2026-10-28",
+     "p": 3.17,
+     "plat": "jarvislabs",
+     "stock": "available",
+     "med": 3.17,
+     "n": 1
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 3.17,
+    "d": "2026-10-13",
+    "plat": "runpod"
+   },
+   "max30": {
+    "p": 3.17,
+    "d": "2026-10-13",
+    "plat": "runpod"
+   },
+   "avg30": 3.17,
+   "current": {
+    "p": 3.17,
+    "plat": "jarvislabs",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 3.17,
+   "med_avg": 3.17,
+   "gap_to_median_pct": 0.0,
+   "sellers_today": 1
+  },
+  "L40 48GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-14",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-15",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-16",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-17",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-18",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-19",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-20",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-21",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-22",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-23",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-24",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-25",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-26",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-27",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-28",
+     "p": 5.69,
+     "plat": "thunder",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 5.69,
+    "d": "2026-10-13",
+    "plat": "thunder"
+   },
+   "max30": {
+    "p": 5.69,
+    "d": "2026-10-13",
+    "plat": "thunder"
+   },
+   "avg30": 5.69,
+   "current": {
+    "p": 5.69,
+    "plat": "thunder",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 5.69,
+   "med_avg": 5.69,
+   "gap_to_median_pct": 0.0,
+   "sellers_today": 1
+  },
+  "L40S 48GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.36,
+     "n": 2
+    },
+    {
+     "d": "2026-10-14",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.36,
+     "n": 2
+    },
+    {
+     "d": "2026-10-15",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.36,
+     "n": 2
+    },
+    {
+     "d": "2026-10-16",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.36,
+     "n": 2
+    },
+    {
+     "d": "2026-10-17",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.36,
+     "n": 2
+    },
+    {
+     "d": "2026-10-18",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.36,
+     "n": 2
+    },
+    {
+     "d": "2026-10-19",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.36,
+     "n": 2
+    },
+    {
+     "d": "2026-10-20",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-21",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-22",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-23",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-24",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-25",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-26",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.8,
+     "n": 3
+    },
+    {
+     "d": "2026-10-27",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.98,
+     "n": 4
+    },
+    {
+     "d": "2026-10-28",
+     "p": 9.91,
+     "plat": "gcore",
+     "stock": "available",
+     "med": 10.98,
+     "n": 4
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 9.91,
+    "d": "2026-10-13",
+    "plat": "gcore"
+   },
+   "max30": {
+    "p": 9.91,
+    "d": "2026-10-13",
+    "plat": "gcore"
+   },
+   "avg30": 9.91,
+   "current": {
+    "p": 9.91,
+    "plat": "gcore",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 10.98,
+   "med_avg": 10.8,
+   "gap_to_median_pct": 9.7,
+   "sellers_today": 4
+  },
+  "RTX 6000 Ada 48GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 4.6,
+     "plat": "verda",
+     "stock": "available",
+     "med": 4.96,
+     "n": 2
+    },
+    {
+     "d": "2026-10-14",
+     "p": 4.64,
+     "plat": "verda",
+     "stock": "available",
+     "med": 4.98,
+     "n": 2
+    },
+    {
+     "d": "2026-10-15",
+     "p": 4.69,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.01,
+     "n": 2
+    },
+    {
+     "d": "2026-10-16",
+     "p": 4.74,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.04,
+     "n": 2
+    },
+    {
+     "d": "2026-10-17",
+     "p": 4.78,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.05,
+     "n": 2
+    },
+    {
+     "d": "2026-10-18",
+     "p": 4.83,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.08,
+     "n": 2
+    },
+    {
+     "d": "2026-10-19",
+     "p": 4.88,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.11,
+     "n": 2
+    },
+    {
+     "d": "2026-10-20",
+     "p": 4.88,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.11,
+     "n": 2
+    },
+    {
+     "d": "2026-10-21",
+     "p": 4.98,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.16,
+     "n": 2
+    },
+    {
+     "d": "2026-10-22",
+     "p": 5.03,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.18,
+     "n": 2
+    },
+    {
+     "d": "2026-10-23",
+     "p": 5.08,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.21,
+     "n": 2
+    },
+    {
+     "d": "2026-10-24",
+     "p": 5.13,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.23,
+     "n": 2
+    },
+    {
+     "d": "2026-10-25",
+     "p": 5.13,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.23,
+     "n": 2
+    },
+    {
+     "d": "2026-10-26",
+     "p": 5.18,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.25,
+     "n": 2
+    },
+    {
+     "d": "2026-10-27",
+     "p": 5.23,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.28,
+     "n": 2
+    },
+    {
+     "d": "2026-10-28",
+     "p": 5.23,
+     "plat": "verda",
+     "stock": "available",
+     "med": 5.28,
+     "n": 2
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 4.6,
+    "d": "2026-10-13",
+    "plat": "verda"
+   },
+   "max30": {
+    "p": 5.23,
+    "d": "2026-10-27",
+    "plat": "verda"
+   },
+   "avg30": 4.94,
+   "current": {
+    "p": 5.23,
+    "plat": "verda",
+    "d": "2026-10-28"
+   },
+   "change_pct": 13.7,
+   "vs_min_pct": 13.7,
+   "volatility_pct": 4.2,
+   "med_now": 5.28,
+   "med_avg": 5.13,
+   "gap_to_median_pct": 0.9,
+   "sellers_today": 2
+  },
+  "V100 16GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 0.77,
+     "plat": "verda",
+     "stock": "available",
+     "med": 1.07,
+     "n": 2
+    },
+    {
+     "d": "2026-10-14",
+     "p": 0.78,
+     "plat": "verda",
+     "stock": "available",
+     "med": 1.08,
+     "n": 2
+    },
+    {
+     "d": "2026-10-15",
+     "p": 0.78,
+     "plat": "verda",
+     "stock": "available",
+     "med": 1.08,
+     "n": 2
+    },
+    {
+     "d": "2026-10-16",
+     "p": 0.79,
+     "plat": "verda",
+     "stock": "available",
+     "med": 1.08,
+     "n": 2
+    },
+    {
+     "d": "2026-10-17",
+     "p": 0.8,
+     "plat": "verda",
+     "stock": "available",
+     "med": 1.08,
+     "n": 2
+    },
+    {
+     "d": "2026-10-18",
+     "p": 0.81,
+     "plat": "verda",
+     "stock": "available",
+     "med": 1.09,
+     "n": 2
+    },
+    {
+     "d": "2026-10-19",
+     "p": 0.81,
+     "plat": "verda",
+     "stock": "available",
+     "med": 1.09,
+     "n": 2
+    },
+    {
+     "d": "2026-10-20",
+     "p": 5.69,
+     "plat": "lambda",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-21",
+     "p": 5.69,
+     "plat": "lambda",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-22",
+     "p": 5.69,
+     "plat": "lambda",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-23",
+     "p": 5.69,
+     "plat": "lambda",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-24",
+     "p": 5.69,
+     "plat": "lambda",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-25",
+     "p": 5.69,
+     "plat": "lambda",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-26",
+     "p": 5.69,
+     "plat": "lambda",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-27",
+     "p": 5.69,
+     "plat": "lambda",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    },
+    {
+     "d": "2026-10-28",
+     "p": 5.69,
+     "plat": "lambda",
+     "stock": "available",
+     "med": 5.69,
+     "n": 1
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 0.77,
+    "d": "2026-10-13",
+    "plat": "verda"
+   },
+   "max30": {
+    "p": 5.69,
+    "d": "2026-10-20",
+    "plat": "lambda"
+   },
+   "avg30": 3.55,
+   "current": {
+    "p": 5.69,
+    "plat": "lambda",
+    "d": "2026-10-28"
+   },
+   "change_pct": 639.0,
+   "vs_min_pct": 639.0,
+   "volatility_pct": 68.5,
+   "med_now": 5.69,
+   "med_avg": 5.69,
+   "gap_to_median_pct": 0.0,
+   "sellers_today": 1
+  },
+  "RTX PRO 6000 96GB": {
+   "series": [
+    {
+     "d": "2026-10-13",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-14",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-15",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-16",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-17",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-18",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-19",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-20",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-21",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-22",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-23",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-24",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-25",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-26",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.14,
+     "n": 2
+    },
+    {
+     "d": "2026-10-27",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.32,
+     "n": 3
+    },
+    {
+     "d": "2026-10-28",
+     "p": 12.96,
+     "plat": "nebius",
+     "stock": "available",
+     "med": 13.32,
+     "n": 3
+    }
+   ],
+   "days": 16,
+   "min30": {
+    "p": 12.96,
+    "d": "2026-10-13",
+    "plat": "nebius"
+   },
+   "max30": {
+    "p": 12.96,
+    "d": "2026-10-13",
+    "plat": "nebius"
+   },
+   "avg30": 12.96,
+   "current": {
+    "p": 12.96,
+    "plat": "nebius",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 13.32,
+   "med_avg": 13.14,
+   "gap_to_median_pct": 2.7,
+   "sellers_today": 3
+  },
+  "RTX 6000 24GB": {
+   "series": [
+    {
+     "d": "2026-10-20",
+     "p": 10.8,
+     "plat": "linode",
+     "stock": "available",
+     "med": 10.8,
+     "n": 1
+    },
+    {
+     "d": "2026-10-21",
+     "p": 10.8,
+     "plat": "linode",
+     "stock": "available",
+     "med": 10.8,
+     "n": 1
+    },
+    {
+     "d": "2026-10-22",
+     "p": 10.8,
+     "plat": "linode",
+     "stock": "available",
+     "med": 10.8,
+     "n": 1
+    },
+    {
+     "d": "2026-10-23",
+     "p": 10.8,
+     "plat": "linode",
+     "stock": "available",
+     "med": 10.8,
+     "n": 1
+    },
+    {
+     "d": "2026-10-24",
+     "p": 10.8,
+     "plat": "linode",
+     "stock": "available",
+     "med": 10.8,
+     "n": 1
+    },
+    {
+     "d": "2026-10-25",
+     "p": 10.8,
+     "plat": "linode",
+     "stock": "available",
+     "med": 10.8,
+     "n": 1
+    },
+    {
+     "d": "2026-10-26",
+     "p": 10.8,
+     "plat": "linode",
+     "stock": "available",
+     "med": 10.8,
+     "n": 1
+    },
+    {
+     "d": "2026-10-27",
+     "p": 10.8,
+     "plat": "linode",
+     "stock": "available",
+     "med": 10.8,
+     "n": 1
+    },
+    {
+     "d": "2026-10-28",
+     "p": 10.8,
+     "plat": "linode",
+     "stock": "available",
+     "med": 10.8,
+     "n": 1
+    }
+   ],
+   "days": 9,
+   "min30": {
+    "p": 10.8,
+    "d": "2026-10-20",
+    "plat": "linode"
+   },
+   "max30": {
+    "p": 10.8,
+    "d": "2026-10-20",
+    "plat": "linode"
+   },
+   "avg30": 10.8,
+   "current": {
+    "p": 10.8,
+    "plat": "linode",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 10.8,
+   "med_avg": 10.8,
+   "gap_to_median_pct": 0.0,
+   "sellers_today": 1
+  },
+  "RTX 4000 Ada 20GB": {
+   "series": [
+    {
+     "d": "2026-10-20",
+     "p": 3.74,
+     "plat": "linode",
+     "stock": "available",
+     "med": 3.74,
+     "n": 1
+    },
+    {
+     "d": "2026-10-21",
+     "p": 3.74,
+     "plat": "linode",
+     "stock": "available",
+     "med": 3.74,
+     "n": 1
+    },
+    {
+     "d": "2026-10-22",
+     "p": 3.74,
+     "plat": "linode",
+     "stock": "available",
+     "med": 3.74,
+     "n": 1
+    },
+    {
+     "d": "2026-10-23",
+     "p": 3.74,
+     "plat": "linode",
+     "stock": "available",
+     "med": 3.74,
+     "n": 1
+    },
+    {
+     "d": "2026-10-24",
+     "p": 3.74,
+     "plat": "linode",
+     "stock": "available",
+     "med": 3.74,
+     "n": 1
+    },
+    {
+     "d": "2026-10-25",
+     "p": 3.74,
+     "plat": "linode",
+     "stock": "available",
+     "med": 3.74,
+     "n": 1
+    },
+    {
+     "d": "2026-10-26",
+     "p": 3.74,
+     "plat": "linode",
+     "stock": "available",
+     "med": 3.74,
+     "n": 1
+    },
+    {
+     "d": "2026-10-27",
+     "p": 3.74,
+     "plat": "linode",
+     "stock": "available",
+     "med": 3.74,
+     "n": 1
+    },
+    {
+     "d": "2026-10-28",
+     "p": 3.74,
+     "plat": "linode",
+     "stock": "available",
+     "med": 3.74,
+     "n": 1
+    }
+   ],
+   "days": 9,
+   "min30": {
+    "p": 3.74,
+    "d": "2026-10-20",
+    "plat": "linode"
+   },
+   "max30": {
+    "p": 3.74,
+    "d": "2026-10-20",
+    "plat": "linode"
+   },
+   "avg30": 3.74,
+   "current": {
+    "p": 3.74,
+    "plat": "linode",
+    "d": "2026-10-28"
+   },
+   "change_pct": 0.0,
+   "vs_min_pct": 0.0,
+   "volatility_pct": 0.0,
+   "med_now": 3.74,
+   "med_avg": 3.74,
+   "gap_to_median_pct": 0.0,
+   "sellers_today": 1
+  }
+ },
+ "platforms": {
+  "featurize": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 2,
+   "presence_pct": 100,
+   "live_pct": 7,
+   "stock_pct": 7,
+   "cards": 1,
+   "avg_offers_per_day": 1.0,
+   "last_seen": "2026-10-28",
+   "score": 35,
+   "grade": "E",
+   "manual": false
+  },
+  "aistation": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 2,
+   "presence_pct": 100,
+   "live_pct": 7,
+   "stock_pct": 100,
+   "cards": 3,
+   "avg_offers_per_day": 1.1,
+   "last_seen": "2026-10-28",
+   "score": 53,
+   "grade": "D",
+   "manual": false
+  },
+  "lanyun": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 0,
+   "presence_pct": 100,
+   "live_pct": 0,
+   "stock_pct": 100,
+   "cards": 1,
+   "avg_offers_per_day": 1.0,
+   "last_seen": "2026-10-28",
+   "score": null,
+   "grade": "manual",
+   "manual": true
+  },
+  "bingxing": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 0,
+   "presence_pct": 100,
+   "live_pct": 0,
+   "stock_pct": 0,
+   "cards": 1,
+   "avg_offers_per_day": 1.0,
+   "last_seen": "2026-10-28",
+   "score": null,
+   "grade": "manual",
+   "manual": true
+  },
+  "autodl": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 30,
+   "presence_pct": 100,
+   "live_pct": 100,
+   "stock_pct": 84,
+   "cards": 3,
+   "avg_offers_per_day": 2.1,
+   "last_seen": "2026-10-28",
+   "score": 97,
+   "grade": "A",
+   "manual": false
+  },
+  "gpushare": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 30,
+   "presence_pct": 100,
+   "live_pct": 100,
+   "stock_pct": 100,
+   "cards": 6,
+   "avg_offers_per_day": 4.6,
+   "last_seen": "2026-10-28",
+   "score": 100,
+   "grade": "A",
+   "manual": false
+  },
+  "vast": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 30,
+   "presence_pct": 100,
+   "live_pct": 100,
+   "stock_pct": 100,
+   "cards": 4,
+   "avg_offers_per_day": 3.9,
+   "last_seen": "2026-10-28",
+   "score": 100,
+   "grade": "A",
+   "manual": false
+  },
+  "chenjian": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 30,
+   "presence_pct": 100,
+   "live_pct": 100,
+   "stock_pct": 100,
+   "cards": 3,
+   "avg_offers_per_day": 3.0,
+   "last_seen": "2026-10-28",
+   "score": 100,
+   "grade": "A",
+   "manual": false
+  },
+  "suanjiayun": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 30,
+   "presence_pct": 100,
+   "live_pct": 100,
+   "stock_pct": 100,
+   "cards": 4,
+   "avg_offers_per_day": 3.5,
+   "last_seen": "2026-10-28",
+   "score": 100,
+   "grade": "A",
+   "manual": false
+  },
+  "compshare": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 30,
+   "presence_pct": 100,
+   "live_pct": 100,
+   "stock_pct": 100,
+   "cards": 6,
+   "avg_offers_per_day": 5.5,
+   "last_seen": "2026-10-28",
+   "score": 100,
+   "grade": "A",
+   "manual": false
+  },
+  "matpool": {
+   "days_seen": 30,
+   "days_total": 30,
+   "days_live": 30,
+   "presence_pct": 100,
+   "live_pct": 100,
+   "stock_pct": 100,
+   "cards": 5,
+   "avg_offers_per_day": 5.0,
+   "last_seen": "2026-10-28",
+   "score": 100,
+   "grade": "A",
+   "manual": false
+  },
+  "runpod": {
+   "days_seen": 19,
+   "days_total": 30,
+   "days_live": 16,
+   "presence_pct": 63,
+   "live_pct": 53,
+   "stock_pct": 99,
+   "cards": 15,
+   "avg_offers_per_day": 13.6,
+   "last_seen": "2026-10-28",
+   "score": 65,
+   "grade": "C",
+   "manual": false
+  },
+  "tensordock": {
+   "days_seen": 19,
+   "days_total": 30,
+   "days_live": 0,
+   "presence_pct": 63,
+   "live_pct": 0,
+   "stock_pct": 83,
+   "cards": 6,
+   "avg_offers_per_day": 6.0,
+   "last_seen": "2026-10-28",
+   "score": null,
+   "grade": "manual",
+   "manual": true
+  },
+  "lambda": {
+   "days_seen": 19,
+   "days_total": 30,
+   "days_live": 9,
+   "presence_pct": 63,
+   "live_pct": 30,
+   "stock_pct": 69,
+   "cards": 5,
+   "avg_offers_per_day": 3.4,
+   "last_seen": "2026-10-28",
+   "score": 48,
+   "grade": "D",
+   "manual": false
+  },
+  "verda": {
+   "days_seen": 19,
+   "days_total": 30,
+   "days_live": 16,
+   "presence_pct": 63,
+   "live_pct": 53,
+   "stock_pct": 100,
+   "cards": 9,
+   "avg_offers_per_day": 8.1,
+   "last_seen": "2026-10-28",
+   "score": 66,
+   "grade": "C",
+   "manual": false
+  },
+  "hyperstack": {
+   "days_seen": 19,
+   "days_total": 30,
+   "days_live": 16,
+   "presence_pct": 63,
+   "live_pct": 53,
+   "stock_pct": 100,
+   "cards": 6,
+   "avg_offers_per_day": 4.7,
+   "last_seen": "2026-10-28",
+   "score": 66,
+   "grade": "C",
+   "manual": false
+  },
+  "nebius": {
+   "days_seen": 19,
+   "days_total": 30,
+   "days_live": 16,
+   "presence_pct": 63,
+   "live_pct": 53,
+   "stock_pct": 96,
+   "cards": 5,
+   "avg_offers_per_day": 3.6,
+   "last_seen": "2026-10-28",
+   "score": 65,
+   "grade": "C",
+   "manual": false
+  },
+  "jarvislabs": {
+   "days_seen": 19,
+   "days_total": 30,
+   "days_live": 2,
+   "presence_pct": 63,
+   "live_pct": 7,
+   "stock_pct": 100,
+   "cards": 5,
+   "avg_offers_per_day": 2.8,
+   "last_seen": "2026-10-28",
+   "score": 42,
+   "grade": "D",
+   "manual": false
+  },
+  "salad": {
+   "days_seen": 19,
+   "days_total": 30,
+   "days_live": 16,
+   "presence_pct": 63,
+   "live_pct": 53,
+   "stock_pct": 100,
+   "cards": 3,
+   "avg_offers_per_day": 3.0,
+   "last_seen": "2026-10-28",
+   "score": 66,
+   "grade": "C",
+   "manual": false
+  },
+  "thunder": {
+   "days_seen": 16,
+   "days_total": 30,
+   "days_live": 16,
+   "presence_pct": 53,
+   "live_pct": 53,
+   "stock_pct": 100,
+   "cards": 4,
+   "avg_offers_per_day": 4.0,
+   "last_seen": "2026-10-28",
+   "score": 63,
+   "grade": "C",
+   "manual": false
+  },
+  "crusoe": {
+   "days_seen": 16,
+   "days_total": 30,
+   "days_live": 16,
+   "presence_pct": 53,
+   "live_pct": 53,
+   "stock_pct": 100,
+   "cards": 6,
+   "avg_offers_per_day": 4.6,
+   "last_seen": "2026-10-28",
+   "score": 63,
+   "grade": "C",
+   "manual": false
+  },
+  "gcore": {
+   "days_seen": 16,
+   "days_total": 30,
+   "days_live": 16,
+   "presence_pct": 53,
+   "live_pct": 53,
+   "stock_pct": 100,
+   "cards": 4,
+   "avg_offers_per_day": 4.0,
+   "last_seen": "2026-10-28",
+   "score": 63,
+   "grade": "C",
+   "manual": false
+  },
+  "ppio": {
+   "days_seen": 16,
+   "days_total": 30,
+   "days_live": 16,
+   "presence_pct": 53,
+   "live_pct": 53,
+   "stock_pct": 100,
+   "cards": 3,
+   "avg_offers_per_day": 3.0,
+   "last_seen": "2026-10-28",
+   "score": 63,
+   "grade": "C",
+   "manual": false
+  },
+  "vultr": {
+   "days_seen": 9,
+   "days_total": 30,
+   "days_live": 9,
+   "presence_pct": 30,
+   "live_pct": 30,
+   "stock_pct": 100,
+   "cards": 1,
+   "avg_offers_per_day": 1.0,
+   "last_seen": "2026-10-28",
+   "score": 44,
+   "grade": "D",
+   "manual": false
+  },
+  "linode": {
+   "days_seen": 9,
+   "days_total": 30,
+   "days_live": 9,
+   "presence_pct": 30,
+   "live_pct": 30,
+   "stock_pct": 100,
+   "cards": 2,
+   "avg_offers_per_day": 2.0,
+   "last_seen": "2026-10-28",
+   "score": 44,
+   "grade": "D",
+   "manual": false
+  },
+  "paperspace": {
+   "days_seen": 9,
+   "days_total": 30,
+   "days_live": 9,
+   "presence_pct": 30,
+   "live_pct": 30,
+   "stock_pct": 100,
+   "cards": 3,
+   "avg_offers_per_day": 3.0,
+   "last_seen": "2026-10-28",
+   "score": 44,
+   "grade": "D",
+   "manual": false
+  }
+ }
+}
