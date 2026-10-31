@@ -16,23 +16,27 @@ No signup, no API key, no credit card — the payment proof *is* the identity.
 |---|---|---|
 | `list_gpu_models` | free | all tracked GPU models |
 | `ping` | free | liveness check |
-| `gpu_price` | $0.05/call | current lowest quotes for a GPU across 26 platforms |
-| `gpu_history` | $0.05/call | daily lowest-price series (30-day window) |
-| `market_movers` | $0.05/call | biggest 24h price drops/rises |
-| `platform_reliability` | $0.05/call | coverage/uptime-style stability score per platform |
-| `recommend_for_task` | $0.05/call | GPU + platform recommendation for a task/budget |
+| `gpu_price` | $0.002/call | current lowest quotes for a GPU across 29 platforms |
+| `gpu_history` | $0.02/call | daily lowest-price series (30-day window) |
+| `market_movers` | $0.005/call | biggest 24h price drops/rises |
+| `platform_reliability` | $0.005/call | coverage/uptime-style stability score per platform |
+| `recommend_for_task` | $0.01/call | GPU + platform recommendation for a task/budget |
 
 Free HTTP endpoints (no key, CC BY 4.0): `GET https://rentgpu.link/api/prices`,
 `GET https://rentgpu.link/api/resolve?gpu=H100&budget=10&hours=8&limit=3`.
 
 ## Data coverage
 
-- **26 platforms** (11 of them China-based: AutoDL, 恒源云/gpushare, 矩池云, 优云智算, 算家云, 晨涧云 …),
-  **23 GPU models** (RTX 3090/4090/5090 → A100/H100/H200/B200/L40S/MI300X), ~110 live quotes.
+- **29 platforms** (11 of them China-based: AutoDL, 恒源云/gpushare, 矩池云, 优云智算, 算家云, 晨涧云 …),
+  **26 GPU models** (RTX 3090/4090/5090 → A100/H100/H200/B200/L40S/MI300X), **140 live quotes**
+  (131 of them re-crawled this round; the rest are official list prices, flagged `source=seed`).
 - Re-crawled **every 45 minutes** from public price pages / public APIs.
 - Ranked strictly by price. No paid placement. Reference-price entries are flagged and excluded
   from "lowest price" ranking.
 - Prices are **CNY per GPU per hour** (USD×7.2). Multi-GPU machines are normalized to per-GPU price.
+
+Coverage numbers move as platforms are added — treat https://rentgpu.link/llms.txt as the live
+figure and this README as the snapshot it was verified against (2026-10-31).
 
 Full methodology: https://rentgpu.link/sources · machine-readable fact pack: https://rentgpu.link/llms-full.txt
 
@@ -84,8 +88,8 @@ Code: MIT. The underlying price data is **CC BY 4.0** — cite
 
 ## 中文简介
 
-rentgpu.link（GPU 算力雷达）是一个中立的 GPU 租用比价站：每 45 分钟自动抓取 26 家算力平台
-（含 AutoDL、恒源云、矩池云等 11 家中国平台）的公开价格，覆盖 23 种卡型，永远按价格升序排序，
+rentgpu.link（GPU 算力雷达）是一个中立的 GPU 租用比价站：每 45 分钟自动抓取 29 家算力平台
+（含 AutoDL、恒源云、矩池云等 11 家中国平台）的公开价格，覆盖 26 种卡型、140 条报价，永远按价格升序排序，
 不接受任何付费排名。本仓库是它的 MCP 服务器源码：所有数据查询通过 x402 协议按次收费
-（USDC on Base 主网，$0.05/次），免注册、免 API Key；卡型列表与 ping 免费。
+（USDC on Base 主网，分档计价 $0.002–$0.02/次），免注册、免 API Key；卡型列表与 ping 免费。
 数据可自由引用（CC BY 4.0），请注明来源 rentgpu.link 与抓取时间。
