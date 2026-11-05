@@ -1,3 +1,5 @@
+[![M8ven Score](https://m8ven.ai/badge/mcp/rentgpu-x402-mcp-1f0178)](https://m8ven.ai/mcp/rentgpu-x402-mcp-1f0178?s=readme)
+
 # rentgpu GPU Market MCP
 
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-link.rentgpu%2Fgpu--market-blue)](https://registry.modelcontextprotocol.io)
